@@ -18,3 +18,14 @@ this repository is for our study of CH01
 
 ## GitHob for Windows/Mac 
 GitHub Desktop https://desktop.github.com/
+
+## 參考文獻
+预备知识
+1.	S. Keshav, How to Read a Paper, ACM SIGCOMM Computer Communication Review, 2013, 37(3): 83-84.
+2.	Philip W. L. Fong, Reading a Computer Science Research Paper, ACM SIGCSE Bulletin, 2009, 41(2): 138-140.
+3.	施巍松, Foundations of Computer Systems Research（计算机系统研究基础·英文版）, 第1章, 高等教育出版社, 2010.
+第1章 云计算概述
+4.	Michael Armbrust, Armando Fox, Rean Griffith, et al., A View of Cloud Computing, Communications of the ACM, 2010, 53(4): 50-58.
+5.	M Armbrust, A Fox, R Griffith, et al., Above the Clouds: A Berkeley View of Cloud Computing, 
+EECS Department University of California Berkeley , 2009 , 53 (4) :50-58.
+6.	PM Mell, The NIST Definition of Cloud, National Institute of Standards & Technology, 2011, 53 (6) :50-50.
